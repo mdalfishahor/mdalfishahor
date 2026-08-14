@@ -53,12 +53,12 @@ fun_fact:      "I learn best by building projects 🚀"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdalfi-shahor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalfi-shahor&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mdalfi-shahor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalfi-shahor&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalfi-shahor&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mdalfi-shahor&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
